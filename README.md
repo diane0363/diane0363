@@ -35,8 +35,8 @@
 
 ### 主要プロジェクト
 
-| Trit Web Application |
-| :--- |
+| 項目 | Trit Web Application |
+| :--- | :--- |
 | **開発期間:** | 2025.07 - 2025.08 |
 | **使用技術:** | Java (Spring Boot), Python (FastAPI), PostgreSQL, LangChain, RAG, Thymeleaf |
 | **担当業務:** | バックエンド全体の設計、AI APIサーバーの構築、RAGロジックの実装 |
