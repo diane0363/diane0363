@@ -55,6 +55,12 @@
 | **상세 내용:** | Spring Boot와 FastAPI를 연계한 마이크로서비스 구조입니다.<br>1. **백엔드**: Spring Security를 통한 사용자 인증 및 게시판 기능을 구현했습니다.<br>2. **AI 서버**: FastAPI로 AI 전용 서버를 분리하여 확장성을 높였습니다.<br>3. **AI 기능**: LangChain과 RAG를 활용하여 특정 데이터 기반의 답변을 제공하는 챗봇을 구축했습니다.<br>4. **프론트엔드**: Thymeleaf와 Vanilla JS를 사용하여 반응형 UI를 제작했습니다. |
 
 
+
+<br>
+
+<br>
+
+
 <div align="center">
 
 ## はじめまして。キム・ダインです。
